@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robiaul Aual Masum</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-![Alt text]([path/to/image.png](https://drive.google.com/file/d/1CViqRC81F1vDtp3W0NYHGdBbxhhf3mXk/view?usp=sharing))
+![Alt text](https://drive.google.com/file/d/1CViqRC81F1vDtp3W0NYHGdBbxhhf3mXk/view?usp=sharing)
 https://drive.google.com/file/d/1CViqRC81F1vDtp3W0NYHGdBbxhhf3mXk/view?usp=sharing
 
 - 🌱 I’m currently learning **ReactJs, NextJs**
