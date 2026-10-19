@@ -1,4 +1,4 @@
-<img src="./Robiaul_Aual_Masum.png" alt="My Banner Image" />
+<img src="./linkedin banner of robiaul aual masum.png" alt="My Banner Image" />
 
 <h1 align="center">Hi 👋, I'm Robiaul Aual Masum</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
